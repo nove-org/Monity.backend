@@ -1,0 +1,12 @@
+{
+    "name": "monity.backend",
+    "author": "Nove Team",
+    "description": "Pulseway free and open-source alternative used at Nove Team",
+    "devDependencies": {
+        "@types/node": "^16.11.10"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^6.0.13"
+    }
+}
